@@ -1,0 +1,6 @@
+offer,customer,zone,operator,shared_claim,units,state,known_day,alternative_to
+J1,C1,X,O1,K1,7,binding,19,
+J2,C1,Y,O2,K1,7,binding,19,J1
+J3,C3,Y,O1,K3,5,binding,20,
+J4,C5,Z,O2,K5,8,show_interest,20,
+J5,C3,Y,O1,K3,5,withdrawn,27,J3

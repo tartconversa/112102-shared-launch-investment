@@ -1,0 +1,7 @@
+project,zone,stage,period,cost,deposit,capacity,dependencies,shared_units
+S1,X,base,1,36,8,10,CORE,4
+S2,Y,base,1,30,9,10,CORE,5
+S3,Y,extension,2,21,5,6,S2,3
+S4,Z,base,1,24,5,8,SUPPORT,4
+CORE,shared,base,1,25,4,0,,0
+SUPPORT,shared,base,2,17,4,0,,0

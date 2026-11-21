@@ -1,0 +1,7 @@
+event,project,known_day,reporter,observed_capacity,service_ref,state,cash
+E1,S1,21,funder,,,deposit,8
+E2,CORE,23,district,6,,partial,
+E3,S1,24,operator,7,PX12,accepted,
+E4,CORE,25,operator,5,,partial,
+E5,S1,28,district,6,PX12,accepted,
+E6,S2,29,funder,,,deposit,9
